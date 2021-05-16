@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+
+}
+
+.page-wrapper{
+    width: 98%;
+    background-color: palegoldenrod;
+    padding: 12.5% 1%;
+}
+
+.box{
+
+    width: 75%;
+    margin: auto;
+    background-color: orange;
+    padding:50px;
+    border: 2px solid gray;
+}
+
+ li{
+    width: 10%;
+    padding: 8% 4%;
+    list-style-type:none;
+    display: inline-block;
+    border: 1px solid gray;
+    margin-top: 2%;
+}
+
+.blue{
+    background-color: blue;
+    margin-left: 1%;
+
+}
+.red{
+    background-color: red;
+    margin-left: 1%;
+}
+.orange{
+    background-color:rebeccapurple;
+    margin-left: 1%;
+}
+
+.green{
+    background-color: green;
+    margin-left: 1%;
+}
+.white{
+    background-color: white;
+    margin-left: 1%;
+}
+
+
